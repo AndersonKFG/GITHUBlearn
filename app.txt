@@ -1,3 +1,2 @@
 import app
 import all
-Olá meu nome é Anderson
